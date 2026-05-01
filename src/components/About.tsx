@@ -6,9 +6,10 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I'm a B.Tech Computer Science and Engineering student at SRM IST Kattankulathur. 
+          I have a strong interest in full-stack web development, AI, and Machine Learning. 
+          I have experience building smart applications, working with deep learning models, 
+          and developing scalable backends.
         </p>
       </div>
     </div>

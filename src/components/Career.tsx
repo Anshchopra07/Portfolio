@@ -15,43 +15,49 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Development Intern</h4>
+                <h5>Conation Technologies</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>May 2025 - June 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Working as a full-time software development intern. Engaged in building software solutions and expanding technical expertise in professional environments.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>B.Tech, Computer Science and Engineering</h4>
+                <h5>SRM IST-Kattankulathur</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023 - 2027</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Pursuing Bachelor of Technology with a focus on Computer Science and Engineering. Current CGPA is 8.86/10.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Class XII - SSC, Computer Science</h4>
+                <h5>Shriman Bhausaheb Zadbuke Mahavidyalaya</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2021 - 2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Completed higher secondary education in Barshi, Maharashtra with an aggregate score of 80.83%.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Class X - CBSE, Computer</h4>
+                <h5>Greenfinger School Akluj</h5>
+              </div>
+              <h3>2021</h3>
+            </div>
+            <p>
+              Completed secondary education in Akluj, Maharashtra with a score of 77.2%.
             </p>
           </div>
         </div>
